@@ -1,4 +1,4 @@
-# Mapa do resultado das Eleições de Deputado Estatudais de 2018 por Zona Eleitoral
+# Mapa da eleição de Deputado Estadual de 2018 por Zona Eleitoral
 
 ## Municípios de São Paulo
 ![Screenshot](sp-estado.png)
