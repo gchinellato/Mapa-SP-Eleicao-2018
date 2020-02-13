@@ -1,4 +1,4 @@
-# Mapa da eleição de Deputado Estadual de 2018 por Zona Eleitoral
+# Mapa da eleição de Dep. Estadual de 2018 por Zona Eleitoral
 
 ## Municípios de São Paulo
 ![Screenshot](sp-estado.png)
