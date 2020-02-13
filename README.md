@@ -4,4 +4,4 @@
 
 ![Screenshot](sp-distrito.png)
 
-![Screenshot](sp-distrito-partido.png)
+![Screenshot](sp-distrito-partido-pt.png)
