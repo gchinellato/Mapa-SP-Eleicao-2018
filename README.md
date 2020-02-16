@@ -15,3 +15,7 @@ Fazer correlação de votos por distrito vs remuneração média
 ![Screenshot](sp-distrito-17317.png)
 ![Screenshot](remuneracao-media-distritos.png)
 ![Screenshot](sp-estado-17317.png)
+
+# Datasets
+- TSE
+- Estadão Dados
