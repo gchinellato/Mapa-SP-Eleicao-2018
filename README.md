@@ -3,6 +3,8 @@
 Exibir mapa de votos da eleição de 2018 para deputado estadual por zona eleitoral no Estado e na Cidade de São Paulo.
 
 ## Ferramentas
+- Pandas
+- Geopandas
 - Matplotlib
 - Bokeh
 
